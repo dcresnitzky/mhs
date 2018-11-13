@@ -1,0 +1,29 @@
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(imagens/background.jpg);
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a:link {
+	color: #204E99;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+	color: #204E99;
+}
+a:hover {
+	text-decoration: none;
+	color: #204E99;
+}
+a:active {
+	text-decoration: underline;
+	color: #204E99;
+}
